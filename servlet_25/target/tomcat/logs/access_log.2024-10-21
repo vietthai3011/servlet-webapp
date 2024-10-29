@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [21/Oct/2024:14:57:52 +0700] "GET /login.jsp HTTP/1.1" 200 777 http-bio-8080-exec-1 344
+0:0:0:0:0:0:0:1 - - [21/Oct/2024:14:57:55 +0700] "GET / HTTP/1.1" 200 777 http-bio-8080-exec-2 2
+0:0:0:0:0:0:0:1 - - [21/Oct/2024:14:57:58 +0700] "GET /login?username=Thai&password=123 HTTP/1.1" 200 312 http-bio-8080-exec-3 30
+0:0:0:0:0:0:0:1 - - [21/Oct/2024:14:58:00 +0700] "GET /trang2.jsp HTTP/1.1" 200 242 http-bio-8080-exec-4 24
+0:0:0:0:0:0:0:1 - - [21/Oct/2024:14:58:00 +0700] "GET /trang1.jsp HTTP/1.1" 200 242 http-bio-8080-exec-5 33
+0:0:0:0:0:0:0:1 - - [21/Oct/2024:14:58:03 +0700] "GET / HTTP/1.1" 200 312 http-bio-8080-exec-6 2
+0:0:0:0:0:0:0:1 - - [21/Oct/2024:14:58:04 +0700] "GET /logout HTTP/1.1" 302 - http-bio-8080-exec-7 1
+0:0:0:0:0:0:0:1 - - [21/Oct/2024:14:58:04 +0700] "GET / HTTP/1.1" 200 777 http-bio-8080-exec-8 1
+0:0:0:0:0:0:0:1 - - [21/Oct/2024:14:58:10 +0700] "GET /login?username=Thai&password=1234 HTTP/1.1" 200 777 http-bio-8080-exec-9 1

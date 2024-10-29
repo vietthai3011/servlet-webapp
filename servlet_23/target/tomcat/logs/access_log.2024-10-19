@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [19/Oct/2024:16:42:00 +0700] "GET /mua-hang?soLuong=50+c%C3%A1i&soDienThoai=123&email=vietthai116%40gmai HTTP/1.1" 200 1528 http-bio-8080-exec-1 416
+0:0:0:0:0:0:0:1 - - [19/Oct/2024:16:42:03 +0700] "GET /mua-hang?soLuong=50+c%C3%A1i&soDienThoai=123&email=vietthai116%40gma.adf HTTP/1.1" 200 1528 http-bio-8080-exec-2 1
+0:0:0:0:0:0:0:1 - - [19/Oct/2024:16:42:03 +0700] "GET /mua-hang?soLuong=50+c%C3%A1i&soDienThoai=123&email=vietthai116%40gma.adf HTTP/1.1" 200 1528 http-bio-8080-exec-3 1
+0:0:0:0:0:0:0:1 - - [19/Oct/2024:16:42:04 +0700] "GET /mua-hang?soLuong=50+c%C3%A1i&soDienThoai=123&email=vietthai116%40gma.adf HTTP/1.1" 200 1528 http-bio-8080-exec-4 1
+0:0:0:0:0:0:0:1 - - [19/Oct/2024:16:42:05 +0700] "GET / HTTP/1.1" 200 1445 http-bio-8080-exec-5 1
+0:0:0:0:0:0:0:1 - - [19/Oct/2024:16:42:05 +0700] "GET / HTTP/1.1" 200 1445 http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [19/Oct/2024:16:42:14 +0700] "GET /mua-hang?soLuong=50+c%C3%A1i&soDienThoai=123&email=vietthai116%40gm HTTP/1.1" 200 1558 http-bio-8080-exec-7 1
+0:0:0:0:0:0:0:1 - - [19/Oct/2024:16:46:06 +0700] "GET /mua-hang?soLuong=50&soDienThoai=0987654323&email=vietthai116%40gm.com HTTP/1.1" 200 190 http-bio-8080-exec-1 347
+0:0:0:0:0:0:0:1 - - [19/Oct/2024:16:46:07 +0700] "GET /mua-hang?soLuong=50&soDienThoai=0987654323&email=vietthai116%40gm.com HTTP/1.1" 200 190 http-bio-8080-exec-2 2
